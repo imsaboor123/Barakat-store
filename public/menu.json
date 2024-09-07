@@ -1,0 +1,1238 @@
+{
+    "categories": [
+      {
+        "category": "Latest promotions",
+        "image": "images/Latest promotions/avocado-hass-ripe-1pc-1piece.jpg",
+        "items": [
+          {
+            "_id": "642c155b2c4774f05c36eea1",
+            "name": "Watermelon Wedges 250g",
+            "country": "UAE",
+            "image": "/images/Latest promotions/watermelon-wedges.jpg",
+            "price": 15.00,
+            "onsale": 10.00,
+            "deliveryTime": "60min",
+            "sale": "33%",
+            "type": "Premium",
+            "quantity": "250g"
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea2",
+            "name": "Avacado Hass 150-200g",
+            "country": "Tanania",
+            "image": "images/Latest promotions/avocado-hass-ripe-1pc-1piece.jpg",
+            "price": 12.50,
+            "onsale": 8.00,
+            "deliveryTime": "90min",
+            "sale": "49%",
+            "type": "Sweet and Juicy",
+            "quantity":"1 piece"
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea3",
+            "name": "Cucumber Organic 500g",
+            "country": "USA",
+            "image": "/images/Latest promotions/cucumber-organic-1pkt (1).jpg",
+            "price": 12.50,
+            "onsale": 8.00,
+            "deliveryTime": "90min",
+            "sale": "49%",
+            "type": "",
+            "quantity":"500g"
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea4",
+            "name": "Carrot 0.9-1kg",
+            "country": "Australia",
+            "image": "/images/Latest promotions/carrot_1kg.jpg",
+            "price": 12.50,
+            "onsale": 8.00,
+            "deliveryTime": "90min",
+            "sale": "49%",
+            "type": "Seal deal",
+            "quantity":"1 pack"
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea5",
+            "name": "Blueberry 125kg",
+            "country":"Poland",
+            "image": "/images/Latest promotions/blueberry-125g.jpg",
+            "price": 12.50,
+            "onsale": 8.00,
+            "deliveryTime": "90min",
+            "sale": "15%",
+            "type": "",
+            "quantity":"125g"
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea6",
+            "name": "Banana semi Ripe 0.9-1kg ",
+            "country":"Ecuador",
+            "image": "/images/Latest promotions/banana_1.jpg",
+            "price": 12.50,
+            "onsale": 8.00,
+            "deliveryTime": "90min",
+            "sale": "15%",
+            "type": "",
+            "quantity":"1 pack"
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea7",
+            "name": "Tomato Cherry Red 250g",
+            "country":"Morocco",
+            "image": "/images/Latest promotions/tomato-cherry-red-1pkt_1.jpg",
+            "price": 12.50,
+            "onsale": 8.00,
+            "deliveryTime": "90min",
+            "sale": "15%",
+            "type": "",
+            "quantity":"250g"
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea8",
+            "name": "Capsicum Mix 400-500g",
+            "country":"UAE",
+            "image": "/images/Latest promotions/capsicum-mix-500g.jpg",
+            "price": 12.50,
+            "onsale": 8.00,
+            "deliveryTime": "90min",
+            "sale": "15%",
+            "type": "",
+            "quantity":"1 pack"
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea9",
+            "name": "Beans Green",
+            "country":"UAE",
+            "image": "/images/Latest promotions/beans-green-250-g.jpg",
+            "price": 12.50,
+            "onsale": 8.00,
+            "deliveryTime": "90min",
+            "sale": "15%",
+            "type": "",
+            "quantity":"250g"
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea10",
+            "name": "Potato 0.9-1kg",
+            "country":"Pakistan",
+            "image": "/images/Latest promotions/potato-1kg.jpg",
+            "price": 12.50,
+            "onsale": 8.00,
+            "deliveryTime": "90min",
+            "sale": "15%",
+            "type": "",
+            "quantity":"1 pack"
+          }
+        ]
+      },
+      {
+        "category": "90 minutes delivery",
+        "image": "images/90-minus/almond-green.jpg",
+        "items": [
+          {
+            "_id": "642c155b2c4774f05c36eea1",
+            "name": "Almond Fresh Green 300-400kg",
+            "country": "lebanon",
+            "image": "/images/90-minus/almond-green.jpg",
+            "price": 5.00,
+            "onsale": 4.00,
+            "deliveryTime": "90min",
+            "sale": "20%",
+            "type": "",
+            "quantity": "1 pack`300-400g"
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea2",
+            "name": "Jujube Brown 400-500g",
+            "country": "Thailand",
+            "image": "/images/90-minus/none-vjujubec-0215598000008-1_1_.jpg",
+            "price": 5.00,
+            "onsale": 4.00,
+            "deliveryTime": "90min",
+            "sale": "20%",
+            "type": "",
+            "quantity": "1 pack"
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea3",
+            "name": "Pomelo White Peeled 300g",
+            "country": "Thailand",
+            "image": "/images/90-minus/pomelo_white.jpg",
+            "price": 5.00,
+            "onsale": 4.00,
+            "deliveryTime": "90min",
+            "sale": "20%",
+            "type": "",
+            "quantity": "1 pack 1"
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea4",
+            "name": "Pomelo Red Peeled 300g",
+            "country": "Thailand",
+            "image": "/images/90-minus/pomelo_red.png",
+            "price": 5.00,
+            "onsale": 4.00,
+            "deliveryTime": "90min",
+            "sale": "20%",
+            "type": "",
+            "quantity": "1 pack "
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea5",
+            "name": "Basil Leaves Hot 100g",
+            "country": "Thailand",
+            "image": "/images/90-minus/thai_basil.jpg",
+            "price": 5.00,
+            "onsale": 4.00,
+            "deliveryTime": "90min",
+            "sale": "20%",
+            "type": "",
+            "quantity": "100g"
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea6",
+            "name": "Bamboo Shoot 500-700g",
+            "country": "Thailand",
+            "image": "/images/90-minus/bamboo_shoot.jpg",
+            "price": 5.00,
+            "onsale": 4.00,
+            "deliveryTime": "90min",
+            "sale": "20%",
+            "type": "",
+            "quantity": "1 piece"
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea7",
+            "name": "Beans Long 450-500g",
+            "country": "Thailand",
+            "image": "/images/90-minus/beans-long-string-250gms_1.jpg",
+            "price": 5.00,
+            "onsale": 4.00,
+            "deliveryTime": "90min",
+            "sale": "20%",
+            "type": "",
+            "quantity": "1 pack "
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea8",
+            "name": "Nectarine White 650-700g Packet",
+            "country": "Thailand",
+            "image": "/images/90-minus/nectarine_white.png",
+            "price": 5.00,
+            "onsale": 4.00,
+            "deliveryTime": "90min",
+            "sale": "20%",
+            "type": "",
+            "quantity": "1 pack"
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea9",
+            "name": "Yam Beans(Jicama)600-700g",
+            "country": "Thailand",
+            "image": "/images/90-minus/jicama.jpg",
+            "price": 5.00,
+            "onsale": 4.00,
+            "deliveryTime": "90min",
+            "sale": "20%",
+            "type": "",
+            "quantity": "1 pack"
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea10",
+            "name": "Karonda 250g",
+            "country": "Thailand",
+            "image": "/images/90-minus/karkonda_1.jpeg",
+            "price": 5.00,
+            "onsale": 4.00,
+            "deliveryTime": "90min",
+            "sale": "20%",
+            "type": "",
+            "quantity": "1 pack"
+          }
+          
+        ]
+      },
+      {
+        "category": "Juice Pops",
+        "image": "images/Juice Pops/assorted_juice_pops_4pc.jpg",
+        "items": [
+          {
+            "_id": "642c155b2c4774f05c36eea1",
+            "name": "Lemon Mint & Watermelon juice Pops 80ml",
+            "country": "UAE",
+            "image": "/images/Juice Pops/new_project_25_.jpg",
+            "price": "",
+            "onsale": 10.00,
+            "deliveryTime": "",
+            "sale": "",
+            "type": "Buy3get1",
+            "quantity": "1 pack"
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea2",
+            "name": "Raspberry Juice Pops 80ml",
+            "country": "UAE",
+            "image": "/images/Juice Pops/new_project_24_.jpg",
+            "price": "",
+            "onsale": 10.00,
+            "deliveryTime": "",
+            "sale": "",
+            "type": "Buy3get1",
+            "quantity": "1 pack"
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea3",
+            "name": "Pinacolada juice Pop 80ml",
+            "country": "UAE",
+            "image": "/images/Juice Pops/new_project_20_.jpg",
+            "price": "",
+            "onsale": 10.00,
+            "deliveryTime": "",
+            "sale": "",
+            "type": "Buy3get1",
+            "quantity": "1 pack"
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea4",
+            "name": "Acai With Strawberry Juice Pop 80ml",
+            "country": "UAE",
+            "image": "/images/Juice Pops/new_project_21_.jpg",
+            "price": "",
+            "onsale": 10.00,
+            "deliveryTime": "",
+            "sale": "",
+            "type": "Buy3get1",
+            "quantity": "1 pack"
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea5",
+            "name": "Organic Juice Pops 80ml",
+            "country": "UAE",
+            "image": "/images/Juice Pops/new_project_22_.jpg",
+            "price": "",
+            "onsale": 10.00,
+            "deliveryTime": "",
+            "sale": "",
+            "type": "Buy3get1",
+            "quantity": "1 pack"
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea6",
+            "name": "Mango Passionfruit Ice Pops-50MI 12x50ml",
+            "country": "UAE",
+            "image": "/images/Juice Pops/mango_passionfruit_ice_pops-50ml_12pcs_pkt.jpg",
+            "price": "",
+            "onsale": 60.00,
+            "deliveryTime": "",
+            "sale": "",
+            "type": "Buy3get1",
+            "quantity": "1 pack"
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea7",
+            "name": "Strawberry Banana juice Pops 4x50ml",
+            "country": "UAE",
+            "image": "/images/Juice Pops/strawberry_banana_juice_pops_4_pieces.jpg",
+            "price": "",
+            "onsale": 60.00,
+            "deliveryTime": "",
+            "sale": "",
+            "type": "Buy3get1",
+            "quantity": "4 pieces"
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea8",
+            "name": "Assorted Juice Pops 4x80ml",
+            "country": "UAE",
+            "image": "/images/Juice Pops/assorted_juice_pops_4pc.jpg",
+            "price": "",
+            "onsale": 60.00,
+            "deliveryTime": "",
+            "sale": "",
+            "type": "Buy3get1",
+            "quantity": "4 pieces"
+          }
+        ]
+      },
+      {
+        "category": "Ready Meals",
+        "image": "/images/Ready Meals/chicken_tagine_-_no_label.jpg",
+        "items": [
+          {
+            "_id": "642c155b2c4774f05c36eea1",
+            "name": "Chicken Ouzi W Rice 450g",
+            "country": "USA",
+            "image": "/images/Ready Meals/chicken_mandi_with_rice_450g_1_1.png",
+            "price": "",
+            "onsale": 16.00,
+            "deliveryTime": "",
+            "sale": "",
+            "type": "",
+            "quantity": "1 pack "
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea2",
+            "name": "Chicken Mandi With Rice 450g",
+            "country": "USA",
+            "image": "/images/Ready Meals/chicken_tagine_-_no_label.jpg",
+            "price": "",
+            "onsale": 16.00,
+            "deliveryTime": "",
+            "sale": "",
+            "type": "",
+            "quantity": "1 pack "
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea3",
+            "name": "Chicken Ouzi W Rice 450g",
+            "country": "USA",
+            "image": "/images/Ready Meals/ezgif.com-webp-to-jpg_3_.jpg",
+            "price": "",
+            "onsale": 16.00,
+            "deliveryTime": "",
+            "sale": "",
+            "type": "",
+            "quantity": "1 pack "
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea4",
+            "name": "Chicken Ouzi W Rice 450g",
+            "country": "USA",
+            "image": "/images/Ready Meals/f522045_chicken_ouzi_w_rice_top_open_1.png",
+            "price": "",
+            "onsale": 16.00,
+            "deliveryTime": "",
+            "sale": "",
+            "type": "",
+            "quantity": "1 pack "
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea5",
+            "name": "Chicken Ouzi W Rice 450g",
+            "country": "USA",
+            "image": "/images/Ready Meals/f522046_lamb_machbous_open_1.png",
+            "price": "",
+            "onsale": 16.00,
+            "deliveryTime": "",
+            "sale": "",
+            "type": "",
+            "quantity": "1 pack "
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea6",
+            "name": "Chicken Ouzi W Rice 450g",
+            "country": "USA",
+            "image": "/images/Ready Meals/f522063_eggplant_mousakaa_top_1.png",
+            "price": "",
+            "onsale": 16.00,
+            "deliveryTime": "",
+            "sale": "",
+            "type": "",
+            "quantity": "1 pack "
+          },
+          {
+            "_id": "642c155b2c4774f05c36eea7",
+            "name": "Chicken Ouzi W Rice 450g",
+            "country": "USA",
+            "image": "/images/Ready Meals/f522071_shrimp_machbous_open_1.png",
+            "price": "",
+            "onsale": 16.00,
+            "deliveryTime": "",
+            "sale": "",
+            "type": "",
+            "quantity": "1 pack "
+          }
+        ]
+      },
+      {
+        "category": "Berries",
+        "image": "/images/Berries/blackberr_170g.jpg",
+        "items": [
+          {
+            "_id": "642c155b2c4774f05c36eeab1",
+            "name": "",
+            "country": "Brazil",
+            "image": "/images/Berries/blackberr_170g.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": "1 pack "
+          },
+          {
+            "_id": "642c155b2c4774f05c36eeac2",
+            "name": "Beef Steak 500g",
+            "country": "Argentina",
+            "image": "/images/Berries/blueberry_driscolls.jpg",
+            "price": 12.00,
+            "onsale": 9.00,
+            "deliveryTime": "60min",
+            "sale": "25%",
+            "type": "",
+            "quantity": "1 pack "
+          },
+          {
+            "_id": "642c155b2c4774f05c36eead3",
+            "name": "Caesar Salad 250g",
+            "country": "USA",
+            "image": "/images/Berries/blueberry_organic.jpg",
+            "price": 6.00,
+            "onsale": 4.50,
+            "deliveryTime": "30min",
+            "sale": "25%",
+            "type": "",
+            "quantity": "1 pack "
+          },
+          {
+            "_id": "642c155b2c4774f05c36eeae4",
+            "name": "Greek Yogurt 200g",
+            "country": "Greece",
+            "image": "/images/Berries/driscoll_s_strawberry_box_250g_x_12.jpg",
+            "price": 3.00,
+            "onsale": 2.50,
+            "deliveryTime": "30min",
+            "sale": "17%",
+            "type": "",
+            "quantity": "1 pack "
+          },
+          {
+            "_id": "642c155b2c4774f05c36eeaf5",
+            "name": "Chocolate Gift Box",
+            "country": "Switzerland",
+            "image": "/images/Berries/raspberry_org.jpg",
+            "price": 20.00,
+            "onsale": 15.00,
+            "deliveryTime": "90min",
+            "sale": "25%",
+            "type": "",
+            "quantity": "1 pack "
+          },
+          {
+            "_id": "642c155b2c4774f05c36eeb06",
+            "name": "Party Balloons",
+            "country": "China",
+            "image": "/images/Berries/shutterstock_1855009942_1_.jpg",
+            "price": 5.00,
+            "onsale": 3.50,
+            "deliveryTime": "120min",
+            "sale": "30%",
+            "type": "",
+            "quantity": "1 pack "
+          },
+          {
+            "_id": "642c155b2c4774f05c36eeb09",
+            "name": "Party Balloons",
+            "country": "China",
+            "image": "/images/Berries/straw_dsc_454_1.jpg",
+            "price": 5.00,
+            "onsale": 3.50,
+            "deliveryTime": "120min",
+            "sale": "30%",
+            "type": "",
+            "quantity": "1 pack "
+          },
+          {
+            "_id": "642c155b2c4774f05c36eeb10",
+            "name": "Party Balloons",
+            "country": "China",
+            "image": "/images/Berries/untitled_design_3_.png",
+            "price": 5.00,
+            "onsale": 3.50,
+            "deliveryTime": "120min",
+            "sale": "30%",
+            "type": "",
+            "quantity": "1 pack "
+          }
+        ]
+      },
+      {
+        "category": "Family Packs",
+        "image": "/images/Family Packs/carrot_5l_with_product.jpg",
+        "items": [
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Family Packs/carrot_5l_with_product.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Family Packs/carrot_5l_with_product.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Family Packs/carrot_5l_with_product.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Family Packs/carrot_5l_with_product.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Family Packs/carrot_5l_with_product.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Family Packs/carrot_5l_with_product.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          }
+        ]
+      },
+      {
+        "category": "Bulk Buy",
+        "image": "/images/Bulk Buy/driscoll_s_raspberry_box_170g_x12.jpg",
+        "items": [
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Bulk Buy/driscoll_s_raspberry_box_170g_x12.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Bulk Buy/driscoll_s_raspberry_box_170g_x12.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Bulk Buy/driscoll_s_raspberry_box_170g_x12.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Bulk Buy/driscoll_s_raspberry_box_170g_x12.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Bulk Buy/driscoll_s_raspberry_box_170g_x12.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Bulk Buy/driscoll_s_raspberry_box_170g_x12.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          }
+          
+        ]
+      },
+      {
+        "category": "Organics",
+        "image": "/images/Organics/1457586_Grocery_092022_1.png",
+        "items": [
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Bulk Buy/driscoll_s_raspberry_box_170g_x12.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "2",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "images/Organics/1457586_OrganicEggs_092022_1.png",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "3",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "images/Organics/1457586_OrganicFruits_092022_4.png",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "4",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "images/Organics/1457586_OrganicMilk_092022_2.png",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "5",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Organics/1457586_OrganicVegetables_092022_2.png",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "6",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Organics/Eweborganic1.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          }
+          
+        ]
+      },
+      {
+        "category": "Exotic Range",
+        "image": "/images/Exotic Range/calamansi_lime.jpg",
+        "items": [
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Exotic Range/calamansi_lime.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Exotic Range/chikoo-sapodilla-premium-200-250g.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Exotic Range/dragon-fruit-red-flesh.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Exotic Range/ice_apple_-_nongu_unpeeled_1.jpeg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Exotic Range/potato-agria-500gms.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Exotic Range/potato-idaho-russet.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Exotic Range/snake_fruit_450-500g_1_1.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Exotic Range/star-fruit-250gms.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Exotic Range/zespri-golden_kiwi_1.png",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          }
+        ]
+      },
+      {
+        "category": "Grab n Go",
+        "image": "/images/Grab n Go/6290361982105_1_.jpg",
+        "items": [
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Grab n Go/6290361982105_1_.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "2",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Grab n Go/6290361982112_1_.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "3",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Grab n Go/6290361982129_1_.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "4",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Grab n Go/6290361982136_1_.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "5",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Grab n Go/6290361982150_display_pic.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "5",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Grab n Go/6290361982167_display_pic.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "5",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Grab n Go/6290361982167_display_pic.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "5",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Grab n Go/6290361982167_display_pic.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "5",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Grab n Go/6290361982174_display_pic.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "5",
+            "name": "Orange Juice Value Pack",
+            "country": "Brazil",
+            "image": "/images/Grab n Go/apple_mix--.png",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          }
+        ]
+      },
+      {
+        "category": "Meats",
+        "image": "/images/meats/1457586_Beef_092022_1.png",
+        "items": [
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Pakistan",
+            "image": "/images/meats/1457586_Beef_092022_1.png",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Pakistan",
+            "image": "/images/meats/1457586_Chicken_092022_1.png",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Pakistan",
+            "image": "/images/meats/1457586_LambMutton_092022_1.png",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Pakistan",
+            "image": "/images/meats/1457586_MarinatedMeats_092022_3.png",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Pakistan",
+            "image": "/images/meats/1457586_MarinatedMeats_092022_3.png",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Pakistan",
+            "image": "/images/meats/1457586_Sausages_Burgers_092222_4.png",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Pakistan",
+            "image": "/images/meats/chicken.png",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Pakistan",
+            "image": "/images/meats/1457586_Turkey_092022_1.png",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          }
+        ]
+      },
+      {
+        "category": "Gift Baskets",
+        "image": "/images/meats/1457586_Beef_092022_1.png",
+        "items": [
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Pakistan",
+            "image": "/images/Grab n Go/6290361982105_1_.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          }
+        ]
+      },
+      {
+        "category": "Ready to cook",
+        "image": "/images/Ready to cook/anyconv.com__f649448_-_salmon_teriyaki_with_mixed_vegetables_cooked.jpg",
+        "items": [
+          {
+            "_id": "1",
+            "name": "Orange Juice Value Pack",
+            "country": "Pakistan",
+            "image": "/images/Ready to cook/anyconv.com__f649448_-_salmon_teriyaki_with_mixed_vegetables_cooked.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "2",
+            "name": "Orange Juice Value Pack",
+            "country": "Pakistan",
+            "image": "/images/Ready to cook/arabic_chicken_kofta_500g.png",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "3",
+            "name": "Orange Juice Value Pack",
+            "country": "Pakistan",
+            "image": "/images/Ready to cook/paneer_croquette_6pc.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "4",
+            "name": "Orange Juice Value Pack",
+            "country": "Pakistan",
+            "image": "/images/Ready to cook/f649444_-_chicken_breast_stuffed_with_mozzarella_tomato_cooked.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "5",
+            "name": "Orange Juice Value Pack",
+            "country": "Pakistan",
+            "image": "/images/Ready to cook/f649444_-_chicken_breast_stuffed_with_mozzarella_tomato_cooked.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "6",
+            "name": "Orange Juice Value Pack",
+            "country": "Pakistan",
+            "image": "/images/Ready to cook/meat_balls.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          },
+          {
+            "_id": "7",
+            "name": "Orange Juice Value Pack",
+            "country": "Pakistan",
+            "image": "/images/Ready to cook/meat_balls.jpg",
+            "price": 10.00,
+            "onsale": 8.00,
+            "deliveryTime": "60min",
+            "sale": "20%",
+            "type": "Boneless",
+            "quantity": " 5 liters "
+          }
+        ]
+      }             
+    ]
+}
+  

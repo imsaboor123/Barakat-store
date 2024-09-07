@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+body{
+  font-family: "inter", "sans-sarif";
+}
+.styles_header_sep__xqHX3{
+    width: 1px;
+    height: 20px;
+    margin: 0 15px; 
+    opacity: .5;
+    background: #c0f1cb;
+}
+.mdi .mdi-magnify .styles_search_icon__yuQlF{
+    top: 0;
+    right: 0;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    font-size: 22px;
+    color: #cfcfcf;
+    position: absolute;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+}
+.styles_next__qnP84{
+    height: 100%;
+    position: relative;
+}
+.styles_next_toggle__HijYT{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.styles_next_location__aK1cB{
+    display: flex;
+    margin: 0 20px;
+    font-size: 13px;
+    cursor: pointer;
+    padding: 4px 25px 4px 10px;
+    border-radius: 4px;
+    position: relative;
+    align-items: center;
+    flex-direction: row;
+    border: 1px solid #dfdfdf;
+    background-color: #fff;
+}
+.styles_next_location_text__S0LNV{
+    font-weight: 700;
+    white-space: nowrap;
+}
+.mdi .mdi-chevron-down .styles_next_location_chev__0EeLF{
+    top: 50%;
+    right: 4px;
+    font-size: 15px;
+    position: absolute;
+    transform: translateY(-50%);
+}
+.navbar {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .navbar.sticky {
+    transform: translateY(0);
+  }
+  
+  .navbar.not-sticky {
+    transform: translateY(-100%);
+  }
+  /* Example CSS (you should replace with your actual class names and styles) */
+.styles_addtocart_box__BmvtI {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  
+  .styles_addtocart_toggle__fRzcz {
+    cursor: pointer;
+    padding: 5px;
+  }
+  
+  .styles_increment__zYAyS {
+    color: red;
+  }
+  
+  .styles_decrement__lrf_G {
+    color: green;
+  }
+  
+  .styles_addtocart_textbox__4ySOO {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    font-size: 16px;
+  }
+  
+  .styles_addtocart_icon__Rqu_I {
+    font-size: 20px;
+  }
+  
+  .slider-container {
+    width: 100%;
+    overflow: hidden;
+    /* Optionally add height or padding if needed */
+    height: 300px; /* Adjust based on content */
+  }
+  .slick-prev, .slick-next {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    z-index: 10; /* Ensure they are on top of other elements */
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white; /* Make sure the icons are visible */
+  }
+  .slick-prev {
+    left: 10px; /* Adjust the position to your preference */
+  }
+  
+  .slick-next {
+    right: 10px; /* Adjust the position to your preference */
+  }
+    
+  
+  
