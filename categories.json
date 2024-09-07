@@ -1,0 +1,810 @@
+{
+  "categories":[
+  { 
+    "category": "Mango Carnival",
+    "image": "/images/Mango-item/Mango_Fruit.png",
+    "subcategories": [
+      {
+        "name": "Fruits",
+        "image": "images/Mango-item/Mango_Fruit.png",
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            },
+            {
+              "_id": "2",
+              "name": "Watermelon Wedges 250g",
+              "country": "Pakistan",
+              "image": "/images/fruits-item/1457586_Citrus_091922_1.png",
+              "price": 15.00,
+              "onsale": 10.00,
+              "deliveryTime": "60min",
+              "sale": "33%",
+              "type": "Premium",
+              "quantity": "250g"
+          },
+          {
+            "_id": "1",
+            "name": "Watermelon Wedges 250g",
+            "country": "Brazil",
+            "image": "/images/Latest promotions/watermelon-wedges.jpg",
+            "price": 15.00,
+            "onsale": 10.00,
+            "deliveryTime": "60min",
+            "sale": "33%",
+            "type": "Premium",
+            "quantity": "250g"
+        },
+        {
+          "_id": "2",
+          "name": "Watermelon Wedges 250g",
+          "country": "Beljim",
+          "image": "/images/fruits-item/1457586_Citrus_091922_1.png",
+          "price": 15.00,
+          "onsale": 10.00,
+          "deliveryTime": "60min",
+          "sale": "33%",
+          "type": "Premium",
+          "quantity": "250g"
+      },
+      {
+        "_id": "1",
+        "name": "Watermelon Wedges 250g",
+        "country": "UAE",
+        "image": "/images/Latest promotions/watermelon-wedges.jpg",
+        "price": 15.00,
+        "onsale": 10.00,
+        "deliveryTime": "60min",
+        "sale": "33%",
+        "type": "Premium",
+        "quantity": "250g"
+    },
+    {
+      "_id": "2",
+      "name": "Watermelon Wedges 250g",
+      "country": "UAE",
+      "image": "/images/fruits-item/1457586_Citrus_091922_1.png",
+      "price": 15.00,
+      "onsale": 10.00,
+      "deliveryTime": "60min",
+      "sale": "33%",
+      "type": "Premium",
+      "quantity": "250g"
+  }, {
+    "_id": "1",
+    "name": "Watermelon Wedges 250g",
+    "country": "UAE",
+    "image": "/images/Latest promotions/watermelon-wedges.jpg",
+    "price": 15.00,
+    "onsale": 10.00,
+    "deliveryTime": "60min",
+    "sale": "33%",
+    "type": "Premium",
+    "quantity": "250g"
+},
+{
+  "_id": "2",
+  "name": "Watermelon Wedges 250g",
+  "country": "UAE",
+  "image": "/images/fruits-item/1457586_Citrus_091922_1.png",
+  "price": 15.00,
+  "onsale": 10.00,
+  "deliveryTime": "60min",
+  "sale": "33%",
+  "type": "Premium",
+  "quantity": "250g"
+}
+
+            
+          ]
+      },
+      {
+        "name": "Juices and Cut Fruits",
+        "image": "images/Mango-item/Mango_juice.png", 
+        "items": [
+            {
+                "_id": "2",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      },
+      {
+        "name": "Ice Creams",
+        "image": "/images/ice-Cream/1457586_JuicePops_092322_1.png", 
+        "items": [
+            {
+                "_id": "3",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/ice-Cream/1457586_JuicePops_092322_1.png",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      }
+    ]
+  
+  },
+  {
+    "category": "Fruits",
+    "image": "/images/fruits-item/1457586_Berries_091922_1.png",
+    "subcategories": [
+      {
+        "name": "Regular Fruits",
+        "image": "images/fruits-item/1457586_Berries_091922_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      },
+      {
+        "name": "Juices & Cut Fruits",
+        "image": "images/fruits-item/1457586_Citrus_091922_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      },
+      {
+        "name": "Ice Cream",
+        "image": "images/fruits-item/1457586_Cut_Sanitised_091922_1_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      }
+    ] 
+  },
+  {
+    "category": "Vegetables",
+    "image": "/images/vagetable/1457586_Leafies.png",
+    "subcategories": [
+      {
+        "name": "Regular Fruits",
+        "image": "images/fruits-item/1457586_Berries_091922_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      },
+      {
+        "name": "Juices & Cut Fruits",
+        "image": "images/fruits-item/1457586_Citrus_091922_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      },
+      {
+        "name": "Ice Cream",
+        "image": "images/fruits-item/1457586_Cut_Sanitised_091922_1_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      }
+    ] 
+  },
+  {
+    "category": "Fresh Juices",
+    "image": "/images/fresh-juices/1457586_JuiceCombos_091922_1.png",
+    "subcategories": [
+      {
+        "name": "Regular Fruits",
+        "image": "images/fruits-item/1457586_Berries_091922_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      },
+      {
+        "name": "Juices & Cut Fruits",
+        "image": "images/fruits-item/1457586_Citrus_091922_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      },
+      {
+        "name": "Ice Cream",
+        "image": "images/fruits-item/1457586_Cut_Sanitised_091922_1_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      }
+    ] 
+  },
+  {
+    "category": "Ice Cream",
+    "image": "/images/ice-Cream/1457586_JuicePops_092322_1.png",
+    "subcategories": [
+      {
+        "name": "Regular Fruits",
+        "image": "images/fruits-item/1457586_Berries_091922_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      },
+      {
+        "name": "Juices & Cut Fruits",
+        "image": "images/fruits-item/1457586_Citrus_091922_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      },
+      {
+        "name": "Ice Cream",
+        "image": "images/fruits-item/1457586_Cut_Sanitised_091922_1_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      }
+    ] 
+  },
+  {
+    "category": "Meats",
+     "image" :"/images/meats/1457586_Beef_092022_1.png",
+    "subcategories": [
+      {
+        "name": "Regular Fruits",
+        "image": "images/fruits-item/1457586_Berries_091922_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      },
+      {
+        "name": "Juices & Cut Fruits",
+        "image": "images/fruits-item/1457586_Citrus_091922_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      },
+      {
+        "name": "Ice Cream",
+        "image": "images/fruits-item/1457586_Cut_Sanitised_091922_1_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      }
+    ] 
+  },
+  {
+    "category": "Grab N Go",
+    "image" :"/images/Grab n Go/6290361982105_1_.jpg",
+    "subcategories": [
+      {
+        "name": "Regular Fruits",
+        "image": "images/fruits-item/1457586_Berries_091922_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      },
+      {
+        "name": "Juices & Cut Fruits",
+        "image": "images/fruits-item/1457586_Citrus_091922_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      },
+      {
+        "name": "Ice Cream",
+        "image": "images/fruits-item/1457586_Cut_Sanitised_091922_1_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      }
+    ] 
+  },
+  {
+    "category": "Gifting & Party Needs",
+    "image" :"/images/gifting-party-needs/6290361982105_1_.jpg",
+    "subcategories": [
+      {
+        "name": "Regular Fruits",
+        "image": "images/fruits-item/1457586_Berries_091922_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      },
+      {
+        "name": "Juices & Cut Fruits",
+        "image": "images/fruits-item/1457586_Citrus_091922_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      },
+      {
+        "name": "Ice Cream",
+        "image": "images/fruits-item/1457586_Cut_Sanitised_091922_1_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      }
+    ] 
+  },
+  {
+    "category": "Organics",
+    "image" :"/images/organics/6290361982105_1_.jpg",
+    "subcategories": [
+      {
+        "name": "Regular Fruits",
+        "image": "images/fruits-item/1457586_Berries_091922_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      },
+      {
+        "name": "Juices & Cut Fruits",
+        "image": "images/fruits-item/1457586_Citrus_091922_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      },
+      {
+        "name": "Ice Cream",
+        "image": "images/fruits-item/1457586_Cut_Sanitised_091922_1_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      }
+    ] 
+  },
+  {
+    "category": "Bakery",
+    "image" :"/images/bakery/6290361982105_1_.jpg",
+    "subcategories": [
+      {
+        "name": "Regular Fruits",
+        "image": "images/fruits-item/1457586_Berries_091922_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      },
+      {
+        "name": "Juices & Cut Fruits",
+        "image": "images/fruits-item/1457586_Citrus_091922_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      },
+      {
+        "name": "Ice Cream",
+        "image": "images/fruits-item/1457586_Cut_Sanitised_091922_1_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      }
+    ] 
+  },
+  {
+    "category": "Dairy & Eggs",
+    "image" :"/images/dairy-eggs/6290361982105_1_.jpg",
+    "subcategories": [
+      {
+        "name": "Regular Fruits",
+        "image": "images/fruits-item/1457586_Berries_091922_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      },
+      {
+        "name": "Juices & Cut Fruits",
+        "image": "images/fruits-item/1457586_Citrus_091922_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      },
+      {
+        "name": "Ice Cream",
+        "image": "images/fruits-item/1457586_Cut_Sanitised_091922_1_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      }
+    ] 
+  },
+  {
+    "category": "Pantry",
+    "image" :"/images/pantry/6290361982105_1_.jpg",
+    "subcategories": [
+      {
+        "name": "Regular Fruits",
+        "image": "images/fruits-item/1457586_Berries_091922_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      },
+      {
+        "name": "Juices & Cut Fruits",
+        "image": "images/fruits-item/1457586_Citrus_091922_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      },
+      {
+        "name": "Ice Cream",
+        "image": "images/fruits-item/1457586_Cut_Sanitised_091922_1_1.png" ,
+        "items": [
+            {
+                "_id": "1",
+                "name": "Watermelon Wedges 250g",
+                "country": "UAE",
+                "image": "/images/Latest promotions/watermelon-wedges.jpg",
+                "price": 15.00,
+                "onsale": 10.00,
+                "deliveryTime": "60min",
+                "sale": "33%",
+                "type": "Premium",
+                "quantity": "250g"
+            }
+          ]
+      }
+    ] 
+  }
+]
+}
